@@ -7,7 +7,7 @@ export const collections = [
     tagline: 'Sacred Form • Timeless Serenity • Spiritual Presence',
     description:
       'Hand-carved stone sculptures that bring peace, balance, and refined elegance into any space. Each piece is a meditation on stillness, formed by artisans who have spent lifetimes understanding the language of stone.',
-    heroImage: 'https://images.unsplash.com/photo-1591280063444-d3c514eb6e13?w=1600&q=85',
+    heroImage: 'https://images.unsplhthttps://zenstonecreations.vercel.app/collections/buddhatps://zenstonecreations.vercel.app/collections/buddhaash.com/photo-1591280063444-d3c514eb6e13?w=1600&q=85',
     accentColor: '#B8976A',
   },
   {
